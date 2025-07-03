@@ -69,7 +69,7 @@ class User extends PureComponent {
       }
       Modal.confirm({
         title: '重置密码确认',
-        content: '确定将选择账号密码重置为123456?',
+        content: '确定将选择账号密码重置为初始密码?',
         okText: '确定',
         okType: 'danger',
         cancelText: '取消',
